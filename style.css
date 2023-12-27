@@ -1,0 +1,396 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500&family=Inter:wght@300&display=swap');
+
+body {
+
+    padding: 0px;
+    margin: 0px;
+    background-color:#0D1117;
+        
+}
+
+/* --Index */
+
+.main-content {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 70px;
+        
+}
+
+.main-content-pages {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px 10px 20px 10px;
+        
+}
+
+* {font-family: 'Inter', sans-serif;}
+
+    
+.txt-professional {
+
+    font-size: 16px;
+    color: #EEEEEE;
+    margin-top: 30px; 
+}
+
+.txt-address {
+
+    font-size: 14px;
+    color: #656D76; 
+
+}
+
+
+.btn-back-main {
+
+display: flex;
+align-self: flex-start;
+
+}
+
+.btn {
+
+    font-size: 16px;
+    color: #EEEEEE;
+
+}
+
+.img-main {
+
+    width: 80px;
+    height: auto;
+    border-radius: 100%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #0CFA3A;
+
+}
+
+.row-icon-content {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 20px;
+    
+}
+
+.icon {
+   
+    text-decoration: none;
+    cursor: pointer;
+    display: inline;
+    flex-direction: row;
+    gap: 100px;
+    color: #656D76;
+
+}
+
+.btn-column-content {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 50px;
+
+}
+
+.btn-main {
+
+   text-decoration: none;
+   width: 280px;
+   height: 56px;
+   background-color: #21262D;
+   border-radius: 8px;
+   border-color: #656D76;
+   border-style: solid;
+   border-width: 1px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 16px;
+   color: #EEEEEE;
+   
+}
+
+.btn-main:hover {
+
+    border-width: 1px;
+    border-color: #0CFA3A;
+}
+
+.btn-main:focus {
+
+    border-width: 1px;
+    border-color: #0CFA3A;
+    background-color: #0D1117;
+
+}
+
+
+footer {
+    
+    margin-top: 50px;
+
+}
+
+/* --Portifolio-page */
+
+.btn-back {
+
+    padding: 5px 20px 5px 10px;
+    background-color: #21262D;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+p {
+    
+    font-size:14px;
+    margin: 0px;
+    color: #656D76;
+}
+
+p:hover {
+
+    color: #EEEEEE;
+
+}
+
+.txt-header {
+
+    font-size: 24px;
+    color: #EEEEEE;
+    font-weight: 600;
+
+}
+
+.txt-info {
+
+    font-size: 16px;
+    color: #EEEEEE;
+    font-weight: 200;
+
+}
+
+.btn-card-clientes {
+
+    max-width: 992px;
+    width: auto;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:10px;
+    
+}
+
+.btn-card {
+
+    cursor: pointer;
+    background-color: #21262D;
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #656D76;
+    text-decoration: none;
+    display: flex;
+    align-items: end;
+        
+}
+
+.btn-card:hover {
+
+    border-width: 1px;
+    border-color: #0CFA3A;
+
+}
+
+.btn-card:focus {
+
+    border-width: 1px;
+    border-color: #0CFA3A;
+    background-color: #0D1117;
+}
+
+.btn-card-h3 {
+
+    font-size: 16px;
+    color: #EEEEEE;
+    font-weight: 200;
+    margin-left: 10px;
+  
+}
+
+/* Experiência Profissional */
+
+.card-content-main {
+
+    max-width: 450px;
+    width: auto;
+    height: auto;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #656D76;
+    text-decoration: none;
+    padding: 15px 40px 20px 15px;
+    margin:20px 0px 20px 0px;
+
+}
+
+i {
+
+    color: #656D76;
+    font-size: 20px;
+
+}
+
+.txt-empresa{
+    
+    font-size: 20px;
+    color: #EEEEEE;
+    margin: 0px 0px 0px 10px;
+     
+}
+
+.txt-empresa-ano {
+
+    font-size: 16px;
+    color: #EEEEEE;
+    font-weight: 500;
+    background-color: #21262D;
+    width: fit-content;
+    padding: 8px 15px 8px 15px;
+    border-radius: 20px;
+
+}
+
+.txt-empresa-profissao {
+
+    font-size: 18px;
+    color: #EEEEEE;
+    font-weight: 400;
+
+}
+
+.txt-info-empresa {
+
+    font-size: 16px;
+    color: #EEEEEE;
+
+}
+
+.card-content-1 {
+
+    display: flex;
+    align-self: start;
+
+}
+
+/* Hard Skills - page */
+
+.txt-info-main {
+
+    max-width: 767px;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+
+}
+
+.p-information {
+
+    text-align: justify;
+    font-size: 16px;
+    color: #EEEEEE;
+
+}
+
+.txt-info-tools {
+
+    display: flex;
+    align-content: flex-start;
+    flex-direction: column;
+           
+}
+
+.progress-info {
+
+    margin: 20px 0px 20px 0px;
+
+}
+
+progress {
+
+    width: 300px;
+    height: 10px;
+    appearance: none;
+}
+
+progress::-webkit-progress-value {
+
+    border-radius: 10px;
+    background-color:#0CFA3A;
+
+}
+
+progress::-webkit-progress-bar {
+
+    border-radius:10px;
+    background-color:#1E232B;
+
+}
+
+/*imagens*/
+
+.img-clientes {
+    
+    max-width: 95%;
+    width:auto;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    
+}
+
+
+.img-1920x1080 {
+
+    max-width: 380px;
+    width: auto;
+    max-height: 480px;
+    height: auto;
+
+
+}
+
+@media screen and (max-width: 380px) {
+
+    .img-1920x1080 {width: 270px;}
+
+}
