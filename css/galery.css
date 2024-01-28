@@ -1,0 +1,365 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Inter+Tight:wght@300&display=swap');
+
+.img-1 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/Capa\ youtube\ Maria\ Antonia.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+        
+}
+
+
+
+.img-2 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/elcaminho.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-3 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/klaudius.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-4 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/techphone.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-5 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/telebrinquedos.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-6 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/volts.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-7 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/absolute.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-8 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/vincenti.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-9 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/perfect.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-10 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: top;
+    background-size: cover;
+    background-image: url("../img/pittjeans.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+
+.img-11 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: top;
+    background-size: cover;
+    background-image: url("../img/integrare.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+
+.img-12 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: top;
+    background-size: cover;
+    background-image: url("../img/Moving.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-13 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: top;
+    background-size: cover;
+    background-image: url("../img/andora.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-13 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/countryvillage.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-14 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/myben.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-15 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/mecca.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+}
+
+.img-16 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/integrare-insta.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+
+}
+
+.img-16 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/ka-currasco.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+
+}
+
+.img-17 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/centraldeferros.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+
+}
+
+.img-17 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/centraldeferros.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+        
+
+}
+
+.img-18 {
+    
+    
+    flex-grow: 1;
+    width: 15%;
+    min-width: 320px;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/hurbana-modas.webp");
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+           
+
+}
+
+
+.btn-clientes { 
+
+   cursor: pointer;
+   width: 15%;
+   min-width: 320px;
+   height: 360px;
+
+}
+
+.img-1:hover, .img-2:hover, .img-3:hover, .img-4:hover, .img-5:hover, .img-6:hover, .img-7:hover, .img-8:hover, .img-9:hover, .img-10:hover, .img-11:hover, .img-12:hover, .img-13:hover, .img-14:hover, .img-15:hover, .img-16:hover, .img-17:hover, .img-18:hover {
+
+   scale: 1.1;
+   transition: ease-in 0.2s;
+
+}
+
