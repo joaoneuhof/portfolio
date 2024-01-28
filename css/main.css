@@ -1,4 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Inter+Tight:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Inter+Tight:wght@200&display=swap');
+
+
+* {
+
+    -webkit-font-smoothing: antialiased;
+    font-weight: inherit;
+    text-rendering: optimizelegibility;
+}
 
 
 body {
@@ -47,7 +55,7 @@ body {
     
     font-family: 'Inter Tight', sans-serif;
     font-size: 28px;
-    font-weight: 600;
+    font-weight: 500;
     padding: 6px 42px 6px 42px;
     border-radius: 50px;
     background-color: #12FF40;
@@ -140,7 +148,7 @@ h2 {
     margin: 0;
     font-family: 'Inter Tight', sans-serif;
     font-size: 42px;
-    font-weight: 600;
+    font-weight: 500;
     color: #fff;
     padding: 30px 10px 30px 20px;
     
@@ -165,7 +173,7 @@ h4 {
     margin: 0;
     font-family: 'Inter Tight', sans-serif;
     font-size: 28px;
-    font-weight: 600;
+    font-weight: 500;
     color: #fff;
     padding: 30px 10px 20px 20px; 
    
